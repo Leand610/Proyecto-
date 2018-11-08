@@ -1,4 +1,5 @@
 # Proyecto- Programacion paralela y distribuida
 
+SOFCOMER
 
-SOFCOMER 
+Sistema de programacion de inventario y ventas.
